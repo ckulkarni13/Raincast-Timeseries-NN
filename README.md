@@ -47,7 +47,7 @@ The core of this project is a **Late-Fusion Hybrid Architecture**. Rather than m
 * `day_wise_forecasting/`: Specialized modules for the 24/48/72-hour prediction logic.
 
 ## Contributing
-Contributions and suggestions are welcome. Feel free to open an issue or submit a pull request. 
+* Contributions and suggestions are welcome. Feel free to open an issue or submit a pull request.
 --- 
 
 *Developed by [Chinmay Kulkarni](https://github.com/ckulkarni13)*
