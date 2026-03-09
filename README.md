@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Acknowledgements
 Rainfall dataset sourced from regional meteorological records.
 =======
@@ -52,4 +51,3 @@ The core of this project is a **Late-Fusion Hybrid Architecture**. Rather than m
 
 ---
 *Developed by [Chinmay Kulkarni](https://github.com/ckulkarni13)*
->>>>>>> main
